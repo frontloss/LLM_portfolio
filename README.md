@@ -1,6 +1,6 @@
-# Awesome LLM Projects
+# LLM Portfolio
 
-Welcome to the "Awesome LLM Projects" repository! This is a curated collection of projects, resources, and tools related to Large Language Models (LLM). If you're interested in the fascinating world of large language models like GPT-x, LLaMA, Mistral and more, you've come to the right place.
+Welcome to the "LLM Portfolio" repository! This is a curated collection of projects, resources, and tools related to Large Language Models (LLM). If you're interested in the fascinating world of large language models like GPT-x, LLaMA, Mistral and more, you've come to the right place.
 
 ## Table of Contents
 
