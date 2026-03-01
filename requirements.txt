@@ -15,4 +15,17 @@ python-dotenv
 lxml_html_clean
 playwright
 playwright-stealth
+llama-index-vector-stores-qdrant
+# OpenAI's CLIP
+git+https://github.com/openai/CLIP.git
 
+#Qdrant Vector Database Client
+qdrant-client
+
+# Dependencies often required for CLIP processing
+torch
+torchvision
+pillow
+ftfy
+regex
+tqdm
